@@ -18,8 +18,10 @@
   <li>Para ver el proyecto en ejecucuion click en el siguiente enlace: https://esteban-02.github.io/Juego-AmigoSecreto/</li>
   <li>Para clonar el proyecto en el siguiente link: git clone https://github.com/Esteban-02/Juego-AmigoSecreto.git</li>
 </ul>
-<h2>Capturas</h2>
+<h2>📸 Capturas</h2>
 <p>Estas capturas son la ejecucion del codigo en el navegador</p>
-
+<img src ="/assets/Amigo Secreto.png">
+<img src = "/assets/AmigoSecreto-ListaNombres.png">
+<img src = "/assets/JuegoSecreto-Seleccion.png">
 
 
